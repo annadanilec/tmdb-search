@@ -1,0 +1,23 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: orangered;
+}
+
+.App-header h3 {
+  display: inline-block;
+}
+
+.App-header i {
+  color: white;
+}
+
+.subtitle {
+  text-align: center;
+  color: orangered;
+  display: block;
+}
+
+.container {
+  overflow: auto;
+}

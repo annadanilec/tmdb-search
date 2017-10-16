@@ -1,0 +1,37 @@
+.MovieItem {
+  width: 23%;
+  margin: 1%;
+  display: inline-block;
+  background-color: #f5f5f5;
+  min-height: 300px;
+  position: relative;
+}
+
+.MovieHeader {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top:0px;
+  color: #fff;
+  padding: 0px 30px;
+  background-color: rgba(0,0,0,0.7);
+}
+
+.MovieImage {
+  width: 100%;
+}
+
+.MovieImage img {
+  width: 100%;
+}
+
+.MovieDetails {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 4px;
+  font-size: 12px;
+  color: #e0e0e0;
+  padding: 0px 30px;
+  background-color: rgba(0,0,0,0.9);
+}
